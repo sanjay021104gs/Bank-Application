@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45ebeb25-cf3c-4cd2-b1e7-caf830f063e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/Springboot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingApplication.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/BankingApplication/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/BankingApplication/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/src/components/AccountList..jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/src/components/CreateAccount.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/src/components/DeleteAccount.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/src/components/DepositMoney.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/src/components/ListOfMembers.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/src/components/WithdrawMoney.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/src/services/EmployeeService.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/bankapp/vite.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2rzdNUVs3WnXj7JeWjL2i8sahwv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BankingApplication.executor": "Run",
+    "Application.cipher.executor": "Run",
+    "Application.test.executor": "Run",
+    "Maven.BankingApplication [clean].executor": "Run",
+    "Maven.BankingApplication [package].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sanja/OneDrive/Desktop/Desktop Files/E drive/RMD Engineering/Resume projects/Bank application/Springboot/BankingApplication/BankingApplication",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.BankingApplication.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BankingApplication">
+    <configuration name="BankingApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.BankingApplication.BankingApplication" />
+      <module name="BankingApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.BankingApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="BankingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankingApplication" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45ebeb25-cf3c-4cd2-b1e7-caf830f063e1" name="Changes" comment="" />
+      <created>1737565797550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737565797550</updated>
+    </task>
+    <servers />
+  </component>
+</project>
