@@ -78,8 +78,8 @@ The frontend runs on **[http://localhost:5174](http://localhost:5174)**
 
 | **Dashboard** | **Deposit** | **Withdraw** |
 |----------------|--------------|---------------|
-| ![Dashboard](img1.png) | ![Deposit](img2.png) | ![Withdraw](img3.png) |
+| ![Dashboard](img1.jpg) | ![Deposit](img2.jpg) | ![Withdraw](img3.jpg) |
 
 | **Delete Account** | **Create Account** |
 |---------------------|--------------------|
-| ![Delete Account](img4.png) | ![Create Account](img5.png) |
+| ![Delete Account](img4.jpg) | ![Create Account](img5.jpg) |
